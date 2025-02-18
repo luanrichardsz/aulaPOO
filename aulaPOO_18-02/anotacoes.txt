@@ -1,8 +1,0 @@
-Aula de POO 
-
-Como funcionam os pilares da POO? 
-
-	Abstração: Descreve algo usando apenas os detalhes relevantes ao contexto em que está sendo usado.
-	Encapsulamento: Protege os dados.
-	Herança: Promove a reutilização de código.
-	Polimorfismo: Promove a flexibilidade.
