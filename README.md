@@ -10,5 +10,5 @@ Aqui você encontrará exemplos, anotações e exercícios relacionados aos conc
 - Polimorfismo  
 
 ## 🛠 Tecnologia Utilizada  
-As implementações foi usado a linguagem Java e suas diversas bibliotecas.
-**IDEs Recomendadas**: Intellij ou Eclipse 
+- As implementações foi usado a linguagem Java e suas diversas bibliotecas.
+- **IDEs Recomendadas**: Intellij ou Eclipse 
