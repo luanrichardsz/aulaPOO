@@ -11,3 +11,4 @@ Aqui você encontrará exemplos, anotações e exercícios relacionados aos conc
 
 ## 🛠 Tecnologia Utilizada  
 As implementações foi usado a linguagem Java e suas diversas bibliotecas.
+**IDEs Recomendadas**: Intellij ou Eclipse 
