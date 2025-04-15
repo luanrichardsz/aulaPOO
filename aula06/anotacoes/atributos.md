@@ -1,6 +1,6 @@
 # Atributos
 
-São propriedades ou elementos que representam o estado de um determinado objeto
+São propriedades ou elementos que representam o estado de um determinado objeto <br>
 • Ex.: Cliente
     o Nome;
     o CPF;
