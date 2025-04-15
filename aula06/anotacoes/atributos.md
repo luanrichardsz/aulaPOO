@@ -2,7 +2,7 @@
 
 São propriedades ou elementos que representam o estado de um determinado objeto <br>
 - Ex.: <br>
-Cliente<br>
+Cliente
     - Nome;<br>
     - CPF;<br>
     - RG;<br>
